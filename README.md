@@ -61,6 +61,9 @@ Short, accessible introductions to large language models and AI fundamentals.
 - [Context Engineering with Agents](https://www.anthropic.com/engineering/effective-context-engineering-for-ai-agents) — Anthropic (2024); managing context windows for AI agents beyond prompt engineering
 - [Responsible AI at Stanford](https://uit.stanford.edu/security/responsibleai) — "Best practices" for AI use in academic settings
 
+### Suggested Prompts
+[ChatGPT Prompts for University Educators](https://chatgpt.com/use-cases/university-educators) - Faculty from a dozen disciplines shared prompts they use for teaching and research
+
 ---
 
 ## Dueling Perspectives: AI Optimism vs. Criticism
